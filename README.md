@@ -1,2 +1,4 @@
 # Automatic-Video-Summarization-and-Hashtag-Generation
-Developed a system for video summarization and hashtag generation using motion analysis, color patterns, and object detection. Leveraged SpaceTimeGPT for captions and LLaMA-2 for hashtags, enhancing content accessibility and engagement.
+Developed a system to generate video summaries and hashtags by analyzing frames using motion analysis, color patterns, and object detection.
+Utilized SpaceTimeGPT for generating captions and LLaMA-2 for hashtag generation, enabling efficient content summarization for improved viewer engagement. 
+Enhanced content accessibility and engagement by ensuring captions and hashtags accurately reflected the video’s key themes.
